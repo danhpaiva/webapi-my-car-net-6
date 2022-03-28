@@ -44,7 +44,7 @@ In this project we use the following technologies:
 
 - GIT: <a href="https://git-scm.com/downloads">Download</a>
 - Visual Studio 2022: <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Download</a>
-- SDK 5: <a href="https://dotnet.microsoft.com/en-us/download">Download</a>
+- SDK .Net 6: <a href="https://dotnet.microsoft.com/en-us/download">Download</a>
 - Postman: <a href="https://www.postman.com/downloads/">Download</a>
   
 <h2 id=author>😄 Author</h2>
