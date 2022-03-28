@@ -33,8 +33,10 @@ The concept of CodeFirst was used.
 - Clone the repository
 - Debug API
 - Route:
-  
-swagger: https://localhost:7081/swagger/index.html
+
+~~~  
+https://localhost:7081/swagger/index.html
+~~~
 
 Note: it is necessary to configure the access to the database in the <i>appsettings</i> (connection string).
 
